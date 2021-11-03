@@ -27,7 +27,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('🇩 🇪 🇻 ', url='https://t.me/pro_editor_tg'),
+            InlineKeyboardButton('🇩 🇪 🇻 ', url='https://t.me/THOR_TG'),
             InlineKeyboardButton('🤠Share group', url='https://t.me/share/url?url=https://t.me/CINEMA_JALAKAM')
             ],[
             InlineKeyboardButton('UPDATES😉', url='https://t.me/cinema_jalakam_updates')
@@ -75,7 +75,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('🇩 🇪 🇻 ', url='https://t.me/pro_editor_tg'),
+            InlineKeyboardButton('🇩 🇪 🇻 ', url='https://t.me/THOR_TG'),
             InlineKeyboardButton('🤠Share group', url='https://t.me/share/url?url=https://t.me/CINEMA_JALAKAM')
             ],[
             InlineKeyboardButton('UPDATES😉', url='https://t.me/cinema_jalakam_updates')
