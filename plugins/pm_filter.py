@@ -78,7 +78,7 @@ async def next_page(bot, query):
         offset = 0
     search = BUTTONS.get(key)
     if not search:
-        await query.answer("You are using this for one of my old message, please send the request again.",show_alert=True)
+        await query.answer("കൗശലം ലേശം കുടുതൽ ആണല്ലേ.",show_alert=True)
         return
     btn=[]
 
